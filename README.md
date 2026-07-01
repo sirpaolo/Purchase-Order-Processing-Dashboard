@@ -68,5 +68,6 @@ This dashboard demonstrates how Power BI can transform operational purchase orde
 
 ## Dashboard Preview
 
-<img width="1116" height="626" alt="PO Dashboard" src="https://github.com/user-attachments/assets/0420e679-46d1-4310-9a28-f05a445cc005" />
+<img width="1426" height="797" alt="Purchse Order Dashboard" src="https://github.com/user-attachments/assets/44d3704d-97d4-4a23-b946-303dfe09a717" />
+
 
